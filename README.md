@@ -1,1 +1,6 @@
-# HeritageApiTest
+# 공공데이터 API를 활용해 데이터베이스에 데이터를 넣어보자.
+<li>문화재청에서 제공하는 OPEN API를 활용하여 문화재 데이터를 데이터베이스에 넣는 테스트 코드입니다.</li><br>
+<li>상세한 설명이 필요하신 분들은 아래 블로그 링크를 클릭해서 제가 작성한 글을 확인해주세요.</li><br>
+
+# BLOG
+<li><a href="https://dab-aby.tistory.com/66?category=947975">상세설명 확인하기</a></li><br>
